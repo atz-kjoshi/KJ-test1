@@ -1,0 +1,12 @@
+{
+	"dest_path": "/AritziaDev/Corporate Tech/enVista",
+	"asset_types": [
+		"File",
+		"Job",
+		"Account",
+		"Pipeline"
+	],
+	"async": true,
+	"duplicate_check": false,
+	"status": "Test"
+}
