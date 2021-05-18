@@ -27,13 +27,14 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        run: echo Hello, world!
+        run: echo Hello, world! this is kuntal
 
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
           echo Add other actions to build,
-          echo test, and deploy your project.
+
+
 policy:
   approval:
   - the devtools team has approved
@@ -43,4 +44,6 @@ approval_rules:
   requires:
     count: 1
     teams:
-    - "atz-kjoshi"
+    - "atz-kjoshi" 
+
+ echo test kuntal, and deploy your project.
