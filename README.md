@@ -3,3 +3,5 @@ Test repository to test snaplogic integration
 A config file is added to test
 
 read me edit for workflow
+Test2
+NB test
